@@ -1,0 +1,15 @@
+{
+  "originHash" : "aa271757112ee0f27f82c07ebc0d170a377dfeee5a5ec42da5fcb9b782bd4e37",
+  "pins" : [
+    {
+      "identity" : "dicespm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JaCaLla/DiceSPM.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "331d74357300927be79fbb9e3d00f7fb258347e6"
+      }
+    }
+  ],
+  "version" : 3
+}
